@@ -19,7 +19,5 @@ Atualmente estudando Tailwind e Bootstrap 5.
 
 ## Contato:
 - [Github](https://github.com/eduardomartins09)<br />
-- [Instagram]()<br />
-- [Discord]()<br />
-- [Linkedin(Em breve)]("")<br />
-
+- [Gmail](mailto:edu.ms2254@gmail.com)<br />
+- [Linkedin(Em breve)]()<br />
